@@ -41,7 +41,6 @@ thunar-volman
 unrar
 vcsh
 vlc
-vscodium
 wavpack
 wget
 xdg-user-dirs
